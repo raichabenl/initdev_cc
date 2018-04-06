@@ -95,11 +95,11 @@ echo  $1
 1/déplacement de fichier source
 cd /home/aicha 
 mkdir initdev_cc
-cp bin /home/aicha/initdev_cc
-cp Makefile
-cp source
-cp gitignore
-cp main 
+cp bin  /home/aicha/initdev_cc
+cp Makefile  /home/aicha/initdev_cc
+cp source  /home/aicha/initdev_cc
+cp gitignore /home/aicha/initdev_cc
+cp main /home/aicha/initdev_cc 
 if [le répértoire existe ] ; then 
 echo "erreur"
 echo $1
