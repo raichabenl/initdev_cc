@@ -1,3 +1,5 @@
+#!/bin/bash
+# main script shell
 mkdir "nom_projet"
 cd "nom_projet"
 mkdir "main"
